@@ -1,3 +1,0 @@
-I created this project using PyCharm.
-
-As of the upload date, I can confirm it works via PyCharm. I am unable to test in Anaconda as it will not run on my PC
